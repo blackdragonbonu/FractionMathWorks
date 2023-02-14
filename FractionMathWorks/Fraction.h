@@ -95,17 +95,5 @@ private :
 		}
 		return a;
 	}
-
-	/*static int numberOfDecimalPlaces(double num) {
-		int count = 0;
-		int precision = pow(10, -10);
-		while (num - floor(num) > precision) {
-			std::cout << "Num : " << num << "Floor Num : " << floor(num) <<"  " << num - floor(num)<<std::endl;
-			count++;
-			num *= 10;
-		}
-		return count;
-	}*/
-	
 };
 

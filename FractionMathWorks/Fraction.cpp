@@ -176,8 +176,3 @@ Fraction operator/(Fraction lhs, const double& rhs)
 
 
 
-
-
-
-
-
